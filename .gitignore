@@ -1,0 +1,36 @@
+# Ignore all __pycache__ directories in all folders
+**/__pycache__/
+
+# Byte-compiled files
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and Databases
+*.log
+*.sqlite3
+
+# Test Coverage
+.coverage
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
