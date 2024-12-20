@@ -1,5 +1,5 @@
 # ACSA-HGCN
-This code modified from the code in Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network [[COLING 2020]](https://www.aclweb.org/anthology/2020.coling-main.72.pdf).
+This code is copy with modification from the code in Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network [[COLING 2020]](https://www.aclweb.org/anthology/2020.coling-main.72.pdf).
 
 ## Requirements
 * Python 3.7
